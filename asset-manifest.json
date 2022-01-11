@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/gdsc-movie-app/static/css/main.412b7d24.chunk.css",
+    "main.js": "/gdsc-movie-app/static/js/main.d6c91193.chunk.js",
+    "main.js.map": "/gdsc-movie-app/static/js/main.d6c91193.chunk.js.map",
+    "runtime-main.js": "/gdsc-movie-app/static/js/runtime-main.a56bc4fa.js",
+    "runtime-main.js.map": "/gdsc-movie-app/static/js/runtime-main.a56bc4fa.js.map",
+    "static/css/2.68a81a89.chunk.css": "/gdsc-movie-app/static/css/2.68a81a89.chunk.css",
+    "static/js/2.53013f4d.chunk.js": "/gdsc-movie-app/static/js/2.53013f4d.chunk.js",
+    "static/js/2.53013f4d.chunk.js.map": "/gdsc-movie-app/static/js/2.53013f4d.chunk.js.map",
+    "static/js/3.b8a3dff6.chunk.js": "/gdsc-movie-app/static/js/3.b8a3dff6.chunk.js",
+    "static/js/3.b8a3dff6.chunk.js.map": "/gdsc-movie-app/static/js/3.b8a3dff6.chunk.js.map",
+    "index.html": "/gdsc-movie-app/index.html",
+    "precache-manifest.d2a60e3b65dcd79f92c8b1ff0c7a026b.js": "/gdsc-movie-app/precache-manifest.d2a60e3b65dcd79f92c8b1ff0c7a026b.js",
+    "service-worker.js": "/gdsc-movie-app/service-worker.js",
+    "static/css/2.68a81a89.chunk.css.map": "/gdsc-movie-app/static/css/2.68a81a89.chunk.css.map",
+    "static/css/main.412b7d24.chunk.css.map": "/gdsc-movie-app/static/css/main.412b7d24.chunk.css.map",
+    "static/js/2.53013f4d.chunk.js.LICENSE.txt": "/gdsc-movie-app/static/js/2.53013f4d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a56bc4fa.js",
+    "static/css/2.68a81a89.chunk.css",
+    "static/js/2.53013f4d.chunk.js",
+    "static/css/main.412b7d24.chunk.css",
+    "static/js/main.d6c91193.chunk.js"
+  ]
+}
